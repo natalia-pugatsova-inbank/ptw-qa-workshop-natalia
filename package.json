@@ -9,5 +9,9 @@
   "keywords": [],
   "devDependencies": {
     "@types/node": "^20.11.25"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^5.4.2"
   }
 }
